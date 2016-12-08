@@ -4,7 +4,7 @@ This repository is a tutorial explaining how to integrate Qt in an Android Studi
 
 Throughout this project I will explain the different folders located in this repository 
 
-**NOTE : people interested about this project must be familiar with Android Studio, the Qt framework and the Android SDK and NDK**
+**Note : People interested about this project must be familiar with Android Studio, the Qt framework and the Android SDK and NDK**
 
 ##the *libs/* folder
 
