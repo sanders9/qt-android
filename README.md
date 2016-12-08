@@ -6,10 +6,10 @@ Throughout this project I will explain the different folders located in this rep
 
 **Note : People interested about this project must be familiar with Android Studio, the Qt framework and the Android SDK and NDK**
 
-##the *libs/* folder
+##1. the *libs/* folder
 
-##the *src/main/java/* folder
+##2. the *src/main/java/* folder
 
-##the *src/main/jni/* folder
+##3. the *src/main/jni/* folder
 
 
