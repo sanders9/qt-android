@@ -15,9 +15,9 @@ I needed to include all of them because of the following error :
 
 ##2. the *src/main/java/* folder
 
-This folder contains java classes whose the class allowing to use native code (cf QtServiceAPI.java).
+This folder contains java classes whose QtServiceAPI.java allows us to use native code
 
-After retrieving data from the sqlite database, I notify the java part using java callback (cf QtDatabaseResponseListener)
+After retrieving data from the sqlite database, I notify the java part using a callback (cf QtDatabaseResponseListener.java)
 
 ##3. the *src/main/jni/* folder
 
@@ -26,7 +26,7 @@ After retrieving data from the sqlite database, I notify the java part using jav
 ## Known issues and limitations
 
 * This integration of the qt framework only works on Android devices <= API 21 (= Android Lollipop)
-* QSqlDatabase : Driver not loaded Have a look on this stackoverflow post : http://stackoverflow.com/questions/38638483/qsqldatabase-driver-not-loaded-driver-not-loaded
+* QSqlDatabase : Driver not loaded. Have a look on this stackoverflow post : http://stackoverflow.com/questions/38638483/qsqldatabase-driver-not-loaded-driver-not-loaded
 
 
 
